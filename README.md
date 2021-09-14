@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sidharth S Unnithan</h1>
 <h3 align="center">Tech Enthusiast | Full Stack Developer | Entrepreneur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid2020-devil&label=Profile%20views&color=0e75b6&style=flat" alt="sid2020-devil" /> </p>
+<img src = "https://www.freecodecamp.org/news/content/images/size/w2000/2019/10/banner-1.png" style = "width : 100%">   
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sid2020-devil&label=Profile%20views&color=0e75b6&style=flat" alt="sid2020-devil" /> </p>
 
 - 🔭 I’m currently working on **some cool stuffs realted to MERN Stack , AI**
 
