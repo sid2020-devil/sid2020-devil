@@ -30,5 +30,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sid2020-devil&show_icons=true&locale=en" alt="sid2020-devil" /></p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sid2020-devil)  
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid2020-devil&" alt="sid2020-devil" /></p>
 
