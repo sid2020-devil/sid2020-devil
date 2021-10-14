@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **some cool stuffs realted to MERN Stack , AI**
 
-- 🌱 I’m currently learning **MERN STACK , ML and Data Science**
+- 🌱 I’m currently learning **DevOps, ML and Data Science**
 
 - 👨‍💻 All of my projects are available at [http://sidharthsunnithan.me/](http://sidharthsunnithan.me/)
 
