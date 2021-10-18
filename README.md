@@ -32,7 +32,7 @@
 [![Sidharth S  Unnithan's github stats](https://github-readme-stats.vercel.app/api?username=sid2020-devil&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sid2020-devil&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sid2020-devil&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Sidharth S Unnithan's github activity graph](https://activity-graph.herokuapp.com/graph?username=sid2020-devil&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sidharth S Unnithan's github activity graph](https://activity-graph.herokuapp.com/graph?username=sid2020-devil&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
