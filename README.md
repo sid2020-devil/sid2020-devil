@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidharth S Unnithan</h1>
 <h3 align="center">Tech Enthusiast | Full Stack Developer | Entrepreneur</h3>
 
-<img src = "https://www.freecodecamp.org/news/content/images/size/w2000/2019/10/banner-1.png" style = "width : 100%">   
+<img src = "https://lh3.googleusercontent.com/proxy/Bx_dn69VtDtSHKwMBfcOWMQ_DPhJFI2x11KO5qpvRTjjDOLvNWczQuIj07D2QXwvWWk0XJgIgW7GapFU6cFb-i1P8U4-SxhKY-uemRFRtmgitxedWROPFLu_OGksRBsibLI" style = "width : 100%">   
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sid2020-devil&label=Profile%20views&color=0e75b6&style=flat" alt="sid2020-devil" /> </p>
 
