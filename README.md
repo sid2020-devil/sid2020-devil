@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps, ML and Data Science**
 
-- 👨‍💻 All of my projects are available at [http://sidharthsunnithan.me/](http://sidharthsunnithan.me/)
+- 👨‍💻 All of my projects are available at [http://theofficialsid.tk/](http://theofficialsid.tk/)
 
 - 💬 Ask me about **front-end development**
 - 
