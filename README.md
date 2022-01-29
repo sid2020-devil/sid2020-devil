@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://theofficialsid.tk/](http://theofficialsid.tk/)
 - 💬 Ask me about **front-end development**
-- - 📫 How to reach me **sidsunnithan2720@gmail.com**
+- -📫 How to reach me **sidsunnithan2720@gmail.com**
 - ⚡ Fun fact **I love coding**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
